@@ -569,6 +569,7 @@
                   <div class="card-title">${p.title}</div>
                   <a href="${p.readme || '#'}" target="_blank" class="btn-apple">ReadMe</a>
                   <a href="${p.github || '#'}" target="_blank" class="btn-apple filled">Source Code</a>
+                  ${p.demo ? `<a href="${p.demo}" target="_blank" class="btn-apple">Live Demo</a>` : ''}
                 </div>
               </div>
             </div>`;
