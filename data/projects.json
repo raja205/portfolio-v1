@@ -35,5 +35,5 @@
   { "title": "Social Network Analysis",     "emoji": "🕸️", "category": "Data Analysis",      "github": "", "readme": "" },
   { "title": "Drug Discovery ML",           "emoji": "💊", "category": "Healthcare",         "github": "", "readme": "" },
   { "title": "Portfolio Website Builder",   "emoji": "💻", "category": "Web",                "github": "", "readme": "" },
-  { "title": "Credit Risk Analysis",           "emoji": "📈", "category": "Finance",         "github": "https://github.com/raja205/fmcg-working-capital-optimizer-", "readme": "https://github.com/raja205/fmcg-working-capital-optimizer-/blob/main/README.md","demo":"https://github.com/raja205/fmcg-working-capital-optimizer-/blob/main/interactive_chart.html" }
+  { "title": "Credit Risk Analysis",           "emoji": "📈", "category": "Finance",         "github": "https://github.com/raja205/fmcg-working-capital-optimizer-", "readme": "https://github.com/raja205/fmcg-working-capital-optimizer-/blob/main/README.md","demo":"https://htmlpreview.github.io/?https://github.com/yourusername/project-01-credit-risk/blob/main/interactive_chart.html" }
 ]
